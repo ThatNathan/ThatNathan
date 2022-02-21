@@ -1,3 +1,3 @@
 Hi, 
 
-I am Nathan, i am currently devleoping my programming skills and learning new stuff
+I am Nathan, i am currently developing my programming skills and learning new stuff
